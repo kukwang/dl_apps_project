@@ -1,6 +1,6 @@
 # Contradictory, My Dear Watson
 
-This is kaggle competition [Contradictory, My Dear Watson](https://www.kaggle.com/c/contradictory-my-dear-watson), which I participated in.
+This is code that I used in kaggle competition [Contradictory, My Dear Watson](https://www.kaggle.com/c/contradictory-my-dear-watson).
 
 I did it as an project for deeplearning application class.
 
